@@ -31,7 +31,7 @@ module.exports = (robot) ->
     else if users.length > 1
       msg.send "Too many bitches like that"
     else
-      msg.send "#{msg.match[1]}? Never heard of 'em"
+      msg.send "#{msg.match[1]}? They dont exist moron"
 
   robot.hear /./i, (msg) ->
     return unless robot.brain.data.ambushes?
