@@ -1,5 +1,5 @@
 {
-  "name": "hubot-ambush",
+  "name": "hbhello",
   "description": "A hubot script for ambush",
   "version": "0.0.3",
   "author": "jmoses",
@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git@github.com:hubot-scripts/hubot-ambush.git"
+    "url": "git@github.com:hubot-scripts/hbhello.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-ambush/issues"
+    "url": "https://github.com/hubot-scripts/hbhello/issues"
   },
 
   "dependencies": {
